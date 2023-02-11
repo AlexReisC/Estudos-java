@@ -21,8 +21,8 @@ public class PositivosMedia {
             	}
             }
             leitor.close();
-            
             media = media/cont;
+            
             System.out.println(cont + " valores positivos");
             System.out.println(String.format("%.1f", media));
         }
