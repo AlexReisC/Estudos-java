@@ -3,7 +3,7 @@ package basicos;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class positivosMedia {
+public class PositivosMedia {
     public static void main(String[] args) throws IOException {
 
 		try (Scanner leitor = new Scanner(System.in)) {
