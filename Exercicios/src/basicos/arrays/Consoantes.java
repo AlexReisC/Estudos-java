@@ -4,10 +4,6 @@ package basicos.arrays;
 
 public class Consoantes {
     public static void main(String[] args) {
-        String caracteres[] = new String[6];
-
-        for(int i = 0; i < 6; i++){
-            
-        }
+        
     }
 }
