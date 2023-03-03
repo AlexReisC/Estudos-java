@@ -1,7 +1,7 @@
 /* Faça um programa que leia conjuntos de dois valores, o primeio representando o nome do aluno e o segundo representando sua idade.
 (Pare inserindo o valor 0 no campo nome) */
 
-package basicos.loops;
+package loops;
 
 import java.util.Scanner;
 
