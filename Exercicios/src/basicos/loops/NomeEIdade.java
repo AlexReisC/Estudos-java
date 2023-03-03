@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class NomeEIdade {
     public static void main(String[] args) {
         String aluno;
-        int idade;
+        int idade = 0;
 
         Scanner dado = new Scanner(System.in);
 
@@ -22,6 +22,8 @@ public class NomeEIdade {
         }
         
         dado.close();
+        System.out.println("Seu nome é: " + aluno);
+        System.out.println("Sua idade é: " + idade);
     }
     
 }

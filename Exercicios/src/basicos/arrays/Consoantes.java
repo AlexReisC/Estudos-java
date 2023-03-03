@@ -4,6 +4,15 @@ package basicos.arrays;
 
 public class Consoantes {
     public static void main(String[] args) {
-        
+        String[] consoantes = {"b", "c", "f", "m", "x", "z"};
+        int leitor = 0;
+        for (int i = 0; i < consoantes.length; i++) {
+            leitor++;
+        }
+
+        System.out.println("Foram lidas " + leitor + " consoantes.");
+        for (int i = 0; i < consoantes.length; i++) {
+            System.out.print(consoantes[i] + " ");
+        }
     }
 }
