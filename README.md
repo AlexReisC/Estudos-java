@@ -1,1 +1,3 @@
-## Neste repositorio guardo meus exercicios durante o Bootcamp de Java
+## Neste repositorio guardo meus exercicios de Java
+- Bootcamp Java
+- Aulas de Poo
