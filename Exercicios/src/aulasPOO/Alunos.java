@@ -1,3 +1,5 @@
+package aulasPOO;
+
 public class Alunos {
 
     private String nome;
